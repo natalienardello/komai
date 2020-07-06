@@ -1,49 +1,461 @@
-object_display_order:
-  - artist
-  - year
-  - dimensions
-  - medium
-  - location
 object_list:
   - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/125690/
+    title:
+    artist: Ray Komai
+    year: 1953
+    medium:
+    dimensions:
+    location:
+    link:
     figure:
-      - id: "mother"
-      - id: "mother-b"
-      - id: "mother-c"
+      - id: "coverone"
   - id: 2
-    title: Pea Pickers, Nipomo, California
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print, with applied pigment
-    dimensions: 29.5 cm × 24.4 cm (7 <sup>11</sup>⁄<sub>16</sub> in × 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/130784/
+    title:
+    artist: Ray Komai
+    year: 1955
+    medium:
+    dimensions:
+    location:
+    link:
     figure:
-      - id: "pickers"
+      - id: "covertwo"
   - id: 3
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/45651/
+    title:
+    artist: Ray Komai
+    year: 1955
+    medium:
+    dimensions:
+    location:
+    link:
     figure:
-      - id: "duo"
+      - id: "coverthree"
   - id: 4
-    title: Burroughs Family, Hale County, Alabama
-    artist: Walker Evans
-    year: 1935
-    medium: Gelatin silver print
-    dimensions: 19.2 x 24.1 (7 <sup>9</sup>⁄<sub>16</sub> x 9 <sup>1</sup>⁄<sub>2</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/34753/
+    title:
+    artist: Ray Komai
+    year: 1956
+    medium:
+    dimensions:
+    location:
+    link:
     figure:
-      - id: "family"
+      - id: "coverfour"
+  - id: 5
+    title:
+    artist: Ray Komai
+    year: 1955
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverfive"
+  - id: 6
+    title:
+    artist: Ray Komai
+    year: 1955
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coversix"
+  - id: 7
+    title: cover 7
+    artist: Ray Komai
+    year: 1955
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverseven"
+  - id: 8
+    title: cover 8
+    artist: Ray Komai
+    year: 1955
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covereight"
+  - id: 9
+    title: cover 9
+    artist: Ray Komai
+    year: 1953
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covernine"
+  - id: 10
+    title: cover 10
+    artist: Ray Komai
+    year: 1958
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverten"
+  - id: 11
+    title: cover 11
+    artist: Ray Komai
+    year: 1957
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covereleven"
+  - id: 12
+    title: cover 12
+    artist: Ray Komai
+    year: 1957
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwelve"
+  - id: 13
+    title: cover 13
+    artist: Ray Komai
+    year: 1957
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirteen"
+  - id: 14
+    title: cover 14
+    artist: Ray Komai
+    year: 1957
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverfourteen"
+  - id: 15
+    title: cover 15
+    artist: Ray Komai
+    year: 1957
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverfifteen"
+  - id: 16
+    title: cover 16
+    artist: Ray Komai
+    year: 1957
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coversixteen"
+  - id: 17
+    title: cover 17
+    artist: Ray Komai
+    year: 1957
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverseventeen"
+  - id: 18
+    title: cover 18
+    artist: Ray Komai
+    year: 1957
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covereighteen"
+  - id: 19
+    title: cover 19
+    artist: Ray Komai
+    year: 1959
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covernineteen"
+  - id: 20
+    title: cover 20
+    artist: Ray Komai
+    year: 1959
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwenty"
+  - id: 21
+    title: cover 21
+    artist: Ray Komai
+    year: 1959
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwentyone"
+  - id: 22
+    title: cover 22
+    artist: Ray Komai
+    year: 1959
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwentytwo"
+  - id: 23
+    title: cover 23
+    artist: Ray Komai
+    year: 1959
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwentythree"
+  - id: 24
+    title: cover 24
+    artist: Ray Komai
+    year: 1958
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwentyfour"
+  - id: 25
+    title: cover 25
+    artist: Ray Komai
+    year: 1958
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwentyfive"
+  - id: 26
+    title: cover 26
+    artist: Ray Komai
+    year: 1958
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwentysix"
+  - id: 27
+    title: cover 27
+    artist: Ray Komai
+    year: 1958
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwentyseven"
+  - id: 28
+    title: cover 28
+    artist: Ray Komai
+    year: 1960
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwentyeight"
+  - id: 29
+    title: cover 29
+    artist: Ray Komai
+    year: 1960
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "covertwentynine"
+  - id: 30
+    title: cover 30
+    artist: Ray Komai
+    year: 1960
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirty"
+  - id: 31
+    title: cover 31
+    artist: Ray Komai
+    year: 1960
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirtyone"
+  - id: 32
+    title: cover 32
+    artist: Ray Komai
+    year: 1960
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirtytwo"
+  - id: 33
+    title: cover 33
+    artist: Ray Komai
+    year: 1960
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirtythree"
+  - id: 34
+    title: cover 34
+    artist: Ray Komai
+    year: 1960
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirtyfour"
+  - id: 35
+    title: cover 35
+    artist: Ray Komai
+    year: 1959
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirtyfive"
+  - id: 36
+    title: cover 36
+    artist: Ray Komai
+    year: 1959
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirtysix"
+  - id: 37
+    title: cover 37
+    artist: Ray Komai
+    year: 1963
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirtyseven"
+  - id: 38
+    title: cover 38
+    artist: Ray Komai
+    year: 1963
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirtyeight"
+  - id: 39
+    title: cover 39
+    artist: Ray Komai
+    year: 1963
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverthirtynine"
+  - id: 40
+    title: cover 40
+    artist: Ray Komai
+    year: 1962
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverfourty"
+  - id: 41
+    title: cover 41
+    artist: Ray Komai
+    year: 1962
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverfourtyone"
+  - id: 42
+    title: cover 42
+    artist: Ray Komai
+    year: 1961
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverfourtytwo"
+  - id: 43
+    title: cover 43
+    artist: Ray Komai
+    year: 1961
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverfourtythree"
+  - id: 44
+    title: cover 44
+    artist: Ray Komai
+    year: 1961
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverfourtyfour"
+  - id: 45
+    title: cover 45
+    artist: Ray Komai
+    year: 1961
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverfourtyfive"
+  - id: 46
+    title: cover 46
+    artist: Ray Komai
+    year: 1961
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "coverfourtysix"
