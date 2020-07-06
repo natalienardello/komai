@@ -1,52 +1,211 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/</loc>
+    <loc>https://natalienardello.github.io/komai/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/contents/</loc>
+    <loc>https://natalienardello.github.io/komai/contents/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/intro/</loc>
+    <loc>https://natalienardello.github.io/komai/catalogue/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/essay/</loc>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_1/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/</loc>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_2/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/1/</loc>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_3/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/2/</loc>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_4/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/3/</loc>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_5/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/4/</loc>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_6/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/bibliography/</loc>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_7/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/contributors/</loc>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_8/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/about/</loc>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_9/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_11/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_13/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_17/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_18/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_19/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_20/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_21/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_22/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_23/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_24/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_25/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_26/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_27/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_28/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_29/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_30/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_31/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_32/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_33/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_34/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_35/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_36/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_37/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_38/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_39/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_40/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_41/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_42/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_43/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_44/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_45/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/catalogue/cover_46/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/bibliography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/contributors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natalienardello.github.io/komai/about/</loc>
   </url>
   
 </urlset>
