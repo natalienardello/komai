@@ -91,3 +91,19 @@ h1, h4{
 .quire-figure{
   border-style: none !important;
 }
+/*directly editing title text*/
+.quire-cover__hero .title{
+  font-family:"Proxima Nova" !important;
+  font-weight: 900 !important;
+}
+/*editing text for full screen icon on images*/
+.material-icons{
+  font-family: "Proxima Nova" !important;
+  font-weight: 400 !important;
+}
+/*directly changing cover paragraph text*/
+.quire-cover .quire-page__content .container.is-fluid .content p{
+  font-family: "Proxima Nova", helvetica, sans-serif !important;
+  font-weight: 400 !imporant;
+}
+]
