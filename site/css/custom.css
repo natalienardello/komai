@@ -1,8 +1,57 @@
+/* Headings on the catalouge page */
 span.head{
   text-align: center;
   font-size: 30px !important;
   font-weight: 900 !important;
 }
+/* changing all of the background color */
 body{
   background-color: white !important;
+}
+.quire-page__header{
+  background-color: white !important;
+}
+.quire #main{
+  background-color: white !important;
+}
+.quire-cover .quire-page__content .container.is-fluid .content{
+  background-color:white !important;/* remove the background color for the covers page */
+}
+/* Title*/
+.hero-body .container.is-fluid{
+  position: relative !important;/* centers the div */
+  margin-top: 55% !important;/* holds the div at bottom of image */
+  background-color: transparent !important;/* removes background color of div*/
+}
+.quire-cover__hero .title{
+  font-size: calc(4rem * 1) !important;/* increases title size */
+}
+/* Removed leaflet attribution from bottom right corner of the cover images */
+.leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-scale{
+  display: none !important;
+}
+/* Removes attribution "by ABC" in the menu*/
+.quire-menu__header__contributors{
+  display: none !important;
+}
+/*Changes the line height of the cover text*/
+.quire-cover .quire-page__content .container.is-fluid .content p{
+  line-height: 1.6em !important;
+}
+@media screen and (min-width: 500px)
+.quire-figure.is-pulled-left{
+  width:36% !important;
+}
+div.komai_image{
+  width:50% !important;
+}
+.content .quire-figure.is-pulled-left, .content .quire-figure.is-pulled-right{
+  padding:0 !important;
+}
+.quire-page__content .container .content p{
+  line-height: 1.5em !important;
+}
+.quire-page__content .container .content{
+  padding-top:0 !important;
+  margin-top: 0 !important;
 }
