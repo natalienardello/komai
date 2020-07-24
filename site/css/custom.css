@@ -25,6 +25,7 @@ body{
 }
 .quire-cover__hero .title{
   font-size: calc(4rem * 1) !important;/* increases title size */
+  text-align: center !important;
 }
 /* Removed leaflet attribution from bottom right corner of the cover images */
 .leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-scale{
@@ -54,4 +55,39 @@ div.komai_image{
 .quire-page__content .container .content{
   padding-top:0 !important;
   margin-top: 0 !important;
+}
+p{
+  font-family: "Proxima Nova", helvetica, sans-serif !important;
+  font-weight: 400;
+}
+h1, h4{
+  font-family: "Proxima Nova", helvetic, sans-serif !important;
+  font-weight: 900;
+}
+/*On indv contents pages: changes font of table of contents*/
+.quire-contents-list.list, .quire-contents-list.brief{
+  font-family:"Proxima Nova", helvetica, sans-serif !important;
+  font-weight:400;
+}
+/*On indv cover pages: changes background color*/
+.quire-entry div.side-by-side div.quire-entry__content{
+  background-color: white !important;
+}
+/*On indv cover pages: removes padding from under title*/
+.quire-entry__header .container{
+  padding-bottom: 0 !important;
+}
+/*On indv cover pages: removes spacer between title and paragraph*/
+.quire-entry__tombstone > div.container{
+  padding:0 !important;
+  margin:0 !important;
+}
+/*Changes font for menu*/
+.quire:not(.no-js) .quire__secondary.is-expanded #site-menu__inner{
+  font-family: "Proxima Nova", helvetica, sans-serif !important;
+  font-weight:400;
+}
+/*Removes colored bored from images*/
+.quire-figure{
+  border-style: none !important;
 }
