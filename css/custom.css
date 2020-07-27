@@ -26,6 +26,7 @@ body{
 .quire-cover__hero .title{
   font-size: calc(4rem * 1) !important;/* increases title size */
   text-align: center !important;
+  font-family: "Proxima Nova" !important;
 }
 /* Removed leaflet attribution from bottom right corner of the cover images */
 .leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-scale{
@@ -102,3 +103,4 @@ h1, h4, h3{
 .quire-page p{
   text-align:left !important;
 }
+.quire-cover__hero .title
