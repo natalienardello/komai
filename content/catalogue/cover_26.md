@@ -1,5 +1,5 @@
 ---
-label: 26
+label: 
 title: August 1959
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 20
 ---
 
-Illustration based on a detail of laminated timber, for an article entitled “Wood Moves Out of the Woods.” The illustration was inspired by the base of an arch in the Hunt School in Tacoma, designed by architect Robert B. Price.
+This illustration interprets a detail of architect Kenzo Tange’s design for the Kagawa prefectural office, a combination county seat and community center in an agricultural district of Japan.
+[Full issue](https://usmodernist.org/AF/AF-1959-09.pdf)
+
+{{< q-figure id="1959aug" >}}

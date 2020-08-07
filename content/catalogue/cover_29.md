@@ -1,5 +1,5 @@
 ---
-label: 29
+label: 
 title: December 1959
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 35
 ---
 
-Cover showing laminated timber support beams in Galloway’s furniture showroom in Sarasota, Florida, designed by architect Victor Lundy.
+The illustration features the dynamic laminated timber support beams in Galloway’s furniture showroom in Sarasota, Florida, designed by architect Victor Lundy.
+[Full issue](https://usmodernist.org/AF/AF-1959-12.PDF)
+
+{{< q-figure id="1959dec" >}}

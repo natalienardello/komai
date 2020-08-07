@@ -1,5 +1,5 @@
 ---
-label: 30
+label: 
 title: February 1960
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 34
 ---
 
-Drawing by Ray Komai based on forecasts of growth in building construction.
+A subtle drawing by Komai conveys forecasts of growth in building construction.
+[Full issue](https://usmodernist.org/AF/AF-1960-02.PDF)
+
+{{< q-figure id="1960feb" >}}

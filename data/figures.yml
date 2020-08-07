@@ -9,7 +9,7 @@ figure_list:
     credit: Ray Komai
   - id: "coverthree"
     src: AF_3.jpg
-    caption: "May 1955"
+    caption: "July 1956"
     credit: Ray Komai
   - id: "coverfour"
     src: AF_4.jpg
@@ -189,9 +189,189 @@ figure_list:
     credit:
   - id: "exhibitionphoto1"
     src: exhibitionphoto1.jpg
-    caption: "Photo for the Ray Komai exhibit at Fordham University"
+    caption: "Photo for the Ray Komai exhibit at Fordham University. Photo by Stephan Apicella."
     credit:
   - id: "sept-1959-image"
     src: sept-1959-image.png
     caption:
+    credit:
+  - id: "1953oct"
+    src: 1953-oct.png
+    caption: "Phyllis Wheatley Elementary School, Port Arthur, Texas. Photograph by Ulric Meisel"
+    credit:
+  - id: "1955june"
+    src: 1955-june.png
+    caption: "Attendees at a St. Louis round table on rebuilding urban downtowns. Left to right: Al Fleischman, Philip Talbott, George Hellmuth, and Sidney R. Baer"
+    credit:
+  - id: "1955may"
+    src: 1955-may.png
+    caption: "Inland Steel model, Skidmore, Owings & Merrill. Photograph by Ezra Stoller"
+    credit:
+  - id: "1955oct"
+    src: 1955-oct.png
+    caption: "Senior High School, Northport, Long Island, designed by Ketchum, Gina & Sharp. Photograph by Thomas Airviews"
+    credit:
+  - id: "1956sep"
+    src: 1956-sep.png
+    caption: "Suburban development in America. Photograph by Thomas Airviews"
+    credit:
+  - id: "1956jan"
+    src: 1956-jan.png
+    caption: "The Old Patent Office, Washington, D.C. Photograph by Robert Mills"
+    credit:
+  - id: "1956july"
+    src: 1956-july.png
+    caption: "Plan of Belaire Elementary School in San Angelo, Texas, designed by Caudill, Rowlett, Scott & Associates and Donald Goss Associates"
+    credit:
+  - id: "1957april"
+    src: 1957-april.png
+    caption: "Downtown Albany, New York. Photograph by Walter Sanders—LIFE"
+    credit:
+  - id: "1957dec"
+    src: 1957-dec.png
+    caption: "Milwaukee County War Memorial, Milwaukee, Wisconsin, designed by Eero Saarinen & Associates"
+    credit:
+  - id: "1957feb"
+    src: 1957-feb.png
+    caption: "Alexander Girard’s house in Santa Fe, New Mexico. Photograph by Charles Eames"
+    credit:
+  - id: "1957jan"
+    src: 1957-jan.png
+    caption: "School church at Chapinero, Colombia, designed by architect Juvenal Moya"
+    credit:
+  - id: "1957july"
+    src: 1957-july.png
+    caption: "Spa and gym at the Aspen Institute of Humanistic Studies, designed by Herbert Bayer and Fritz Benedict. Photograph by Berko"
+    credit:
+  - id: "1957june"
+    src: 1957-june.png
+    caption: "Uncredited illustration from an article on the crisis in city transit"
+    credit:
+  - id: "1957march"
+    src: 1957-march.png
+    caption: "Photograph by Martin Harris from a portfolio of images of roofscapes"
+    credit:
+  - id: "1957nov"
+    src: 1957-nov.png
+    caption: "A cafeteria in J. W. Moore Junior High School in Tyler, Texas, designed by Caudill, Rowlett, Scott & Associates. Photograph by Jay Oistad"
+    credit:
+  - id: "1957oct"
+    src: 1957-oct.png
+    caption: "A section of the World House Gallery interior superimposed over architect Kiesler’s original sketch"
+    credit:
+  - id: "1958aug"
+    src: 1958-aug.png
+    caption: "McGregor Memorial Conference Center on Wayne University’s mid-Detroit campus, designed by Minoru Yamasaki"
+    credit:
+  - id: "1958feb"
+    src: 1958-feb.png
+    caption: "Graph of new zoning proposals in Chicago."
+    credit:
+  - id: "1958june"
+    src: 1958-june.png
+    caption: "The Spanish pavilion at the Brussels World’s Fair, designed by Ramon Molezun and José Antonio Corrales"
+    credit:
+  - id: "1958nov"
+    src: 1958-nov.png
+    caption: "A classroom in Sonoma Elementary School, Sonoma, California, designed by Mario J. Ciampi. Photograph by Rondal Partridge"
+    credit:
+  - id: "1958oct"
+    src: 1958-oct.png
+    caption: "Forecast of building construction spending in 1959"
+    credit:
+  - id: "1959april"
+    src: 1959-april.png
+    caption: "The Presidential Palace in Brasília, Brazil, designed by Oscar Niemeyer. Photograph by Alfred Shaw"
+    credit:
+  - id: "1959aug"
+    src: 1959-aug.png
+    caption: "Arches for the Hunt School cafeteria-auditorium in Tacoma, Washington, designed by Robert B. Price"
+    credit:
+  - id: "1959dec"
+    src: 1959-dec.png
+    caption: "Galloway’s Furniture Showroom, Sarasota, Florida, designed by Victor A. Lundy"
+    credit:
+  - id: "1959jan"
+    src: 1959-jan.png
+    caption: "An engraving of the United States Capitol, Washington, D.C., designed by Benjamin Latrobe"
+    credit:
+  - id: "1959march"
+    src: 1959-march.png
+    caption: "A model plan for Cambridge, Massachusetts"
+    credit:
+  - id: "1959nov"
+    src: 1959-nov.jpg
+    caption: "Illustration by Ted Andresakes for an article about productivity in schools"
+    credit:
+  - id: "1959sep"
+    src: 1959-sep.png
+    caption: "A detail fo the Kagawa Prefectural Office, designed by Kenzo Tange"
+    credit:
+  - id: "1960april"
+    src: 1960-april.png
+    caption: "The John Hancock Building in San Francisco, designed by Skidmore, Owings & Merrill. Photograph by Morley Baer"
+    credit:
+  - id: "1960dec"
+    src: 1960-dec.png
+    caption: "Lincoln Hall social hall at Lake Erie College, Painesville, Ohio, designed by Victor F. Christ-Janer & Associates"
+    credit:
+  - id: "1960feb"
+    src: 1960-feb.png
+    caption: "Alvar Aalto’s Pension Institute in Helsinki, Finland"
+    credit:
+  - id: "1960july"
+    src: 1960-july.png
+    caption: "The Richard Medical Research Building at the University of Pennsylvania, designed by Louis Kahn"
+    credit:
+  - id: "1960may"
+    src: 1960-may.png
+    caption: "Lafayette Park Title I Project, Detroit, Michigan, designed by Mies van der Rohe"
+    credit:
+  - id: "1960nov"
+    src: 1960-nov.png
+    caption: "Stillwater High School in Stillwater, Oklahoma, designed by architect John Rowlett of Caudill, Rowlett and Scott. Photograph by A.Y. Owen"
+    credit:
+  - id: "1960sep"
+    src: 1960-sep.png
+    caption: "Le Corbusier’s Secretariat Building in Chandigarh, India, 1953"
+    credit:
+  - id: "1961feb"
+    src: 1961-feb.png
+    caption: "Photograph by Louis Reens for an article on the rebuilding business"
+    credit:
+  - id: "1961jan"
+    src: 1961-jan.png
+    caption: "Illustration by John Suzuki for an article entitled “Working in the Suburbs”"
+    credit:
+  - id: "1961june"
+    src: 1961-june.png
+    caption: "IBM’s Thomas J. Watson Research Center, Westchester County, New York, designed by Eero Saarinen"
+    credit:
+  - id: "1961may"
+    src: 1961-may.png
+    caption: "Municipal Utility District Building, Sacramento, California, designed by Dreyfuss & Blackford"
+    credit:
+  - id: "1961nov"
+    src: 1961-nov.png
+    caption: "Minnie Jeffries Primary School, Detroit, Michigan, designed by Linn Smith Associates, Inc."
+    credit:
+  - id: "1962july"
+    src: 1962-july.png
+    caption: "Eero Saarinen’s Trans World Airlines terminal at Idlewild Airport (JFK Airport)"
+    credit:
+  - id: "1962may"
+    src: 1962-may.png
+    caption: "Marina City, Chicago, under construction. Designed by Bertrand Goldberg. Photograph courtesy of Portland Cement Association"
+    credit:
+  - id: "1963jan"
+    src: 1963-jan.png
+    caption: "Architect Paul Rudolph’s design suggestions for improving Washington D.C."
+    credit:
+  - id: "1963march"
+    src: 1963-march.png
+    caption: "Le Corbusier’s Carpenter Center for the Visual Arts at Harvard University"
+    credit:
+  - id: "1963oct"
+    src: 1963-oct.png
+    caption: "Photograph by Michael E. Bry for an article on urban transportation"
     credit:

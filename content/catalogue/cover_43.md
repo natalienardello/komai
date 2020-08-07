@@ -1,5 +1,5 @@
 ---
-label: 43
+label: 
 title: July 1962
 short_title:
 type: entry
@@ -8,5 +8,7 @@ class: side-by-side
 object:
   - id: 40
 ---
+For an issue on new airports, Komai folded airline schedules into paper airplanes, then photographed and colorized them into an animated fleet.
+[Full issue](https://usmodernist.org/AF/AF-1962-07.pdf)
 
-For an issue on new airports, Ray folded airline schedules into paper airplanes and photographed them.
+{{< q-figure id="1962july" >}}

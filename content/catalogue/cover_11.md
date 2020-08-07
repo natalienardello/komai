@@ -1,5 +1,5 @@
 ---
-label: 11
+label: 
 title: March 1957
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 17
 ---
 
-Cover illustrating an article about roofscapes. Photograph by Rotkin for the Reynolds Company.
+Simple abstraction is the focus of this cover accompanying an article about roofscapes. Photograph by Rotkin for the Reynolds Company.
+[Full issue](https://usmodernist.org/AF/AF-1957-03.pdf)
+
+{{< q-figure id="1957march" >}}

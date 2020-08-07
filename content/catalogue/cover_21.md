@@ -1,5 +1,5 @@
 ---
-label: 21
+label: 
 title: October 1958
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 25
 ---
 
-Cover suggesting the growth of construction activity in the upcoming year.
+An illustration suggesting the growth of construction activity in the upcoming year.
+[Full issue](https://usmodernist.org/AF/AF-1958-10.pdf)
+
+{{< q-figure id="1958oct" >}}

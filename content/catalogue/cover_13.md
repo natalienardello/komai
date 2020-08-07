@@ -1,5 +1,5 @@
 ---
-label: 13
+label: 
 title: June 1957
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 15
 ---
 
-An illustration of "traffic desire lines" (traces of actual traffic routes taken by citizens) in Philadelphia, related to an article entitled “Crisis in City Transit.”
+A vigorous abstraction of "traffic desire lines,” traces actual traffic routes taken by citizens in Philadelphia, and illustrates the article “Crisis in City Transit.”
+[Full issue](https://usmodernist.org/AF/AF-1957-06.pdf)
+
+{{< q-figure id="1957june" >}}

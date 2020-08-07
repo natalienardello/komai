@@ -1,5 +1,5 @@
 ---
-label: 46
+label: 
 title: October 1963
 short_title:
 type: entry
@@ -10,3 +10,6 @@ object:
 ---
 
 A question mark becomes a road sign on the cover of an issue about urban transportation.
+[Full issue](https://usmodernist.org/AF/AF-1963-10.pdf)
+
+{{< q-figure id="1963oct" >}}

@@ -1,5 +1,5 @@
 ---
-label: 34
+label: 
 title: September 1960
 short_title:
 type: entry
@@ -8,5 +8,7 @@ class: side-by-side
 object:
   - id: 30
 ---
+A cover illustration for an article about jazz and architecture hints at the sympathetic rhythms between the two.
+[Full issue](https://usmodernist.org/AF/AF-1960-09.pdf)
 
-A cover illustrating an article about jazz and architecture.
+{{< q-figure id="1960sep" >}}

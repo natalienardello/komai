@@ -1,5 +1,5 @@
 ---
-label: 19
+label: 
 title: June 1958
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 27
 ---
 
-Drawing by Ray Komai based on the roof structure of the Spanish pavilion at the 1958 Brussels World’s Fair.
+A dynamic rendering by Komai of the roof structure of the Spanish pavilion at the 1958 Brussels World’s Fair.
+[Full issue](https://usmodernist.org/AF/AF-1958-06.pdf)
+
+{{< q-figure id="1958june" >}}

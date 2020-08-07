@@ -3,18 +3,32 @@ title: About
 weight: 203
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
-
-This starter theme allows for the quick customization of a few key styles to make you publication project your own. 
-
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
-
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
-
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
-
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+Ray Komai: Architectural Forum covers, 1953–1963 presents large images of 46 covers of
+Architectural Forum magazine that were designed by Ray Komai. The project includes an
+introduction and brief descriptions of each cover. Embedded in the cover descriptions are
+related photographs from the original issues, as well as links to scans of the full magazines on
+the website of usmodernist.org.<br><br>
+This project accompanies a book about Ray Komai by Doug Clouse of the Graphics Office,
+published by Counselor Books (https://amzn.to/2CSlKLM), and was inspired by an exhibition
+based on the book at Fordham University in 2019. The magazine covers were the most popular
+visual element in the exhibition but there was not room in the exhibition to provide descriptions
+of each cover. This project presents those descriptions, while also providing The Graphics
+Office an opportunity explore the online publishing. Online publishing offers museums
+opportunities to share information and exhibitions in new ways.<br><br>
+Citation Information
+TBD<br><br>
+Permanent URL
+TBD<br><br>
+Revision History
+Revisions after the first edition date will be listed here
+August XX, 2020 First edition<br><br>
+Copyright
+© 2020 The Graphics Office
+Published by The Graphics Office
+769 Carroll Street, #4
+Brooklyn, NY 11215
+(https://www.thegraphicsoffice.com) <br><br>
+Doug Clouse and Angela Voulangas: Editing and Art Direction
+Natalie Nardello, Design and Development<br><br>
+Exhibition Photography: Stephan Apicella-Hitchcock
+Other photography and scans: Doug Clouse and [usmodernist.com](https://www/usmodernist.com)

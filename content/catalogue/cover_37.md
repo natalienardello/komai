@@ -1,5 +1,5 @@
 ---
-label: 37
+label: 
 title: January 1961
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 46
 ---
 
-An issue focusing on changing suburbs.
+For an issue focusing on changing suburbs, Komai evokes mass urban shifts.
+[Full issue](https://usmodernist.org/AF/AF-1961-01.pdf)
+
+{{< q-figure id="1961jan" >}}

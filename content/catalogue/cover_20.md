@@ -1,5 +1,5 @@
 ---
-label: 20
+label: 
 title: August 1958
 short_title:
 type: entry
@@ -9,4 +9,6 @@ object:
   - id: 26
 ---
 
-Cover showing the McGregor Memorial Conference Center at Wayne University, designed by Minoru Yamasaki (1912–1986), a Japanese-American who, like Ray, spent time in an incarceration camp during World War II.
+Cover showing the McGregor Memorial Conference Center at Wayne University, designed by the Japanese-American architect Minoru Yamasaki (1912–1986).
+[Full issue](https://usmodernist.org/AF/AF-1958-08.pdf)
+{{< q-figure id="1958aug" >}}

@@ -1,5 +1,5 @@
 ---
-label: 38
+label: 
 title: February 1961
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 45
 ---
 
-Ray’s lettering for an issue about rebuilding.
+Komai’s stacked lettering forms a structure for an issue about rebuilding.
+[Full issue](https://usmodernist.org/AF/AF-1961-02.pdf)
+
+{{< q-figure id="1961feb" >}}

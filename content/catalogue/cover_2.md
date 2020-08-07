@@ -1,5 +1,5 @@
 ---
-label: 2
+label: 
 title: January 1955
 short_title:
 type: entry
@@ -9,5 +9,5 @@ object:
   - id: 8
 ---
 
-This cover illustrates the article entitled “US building abroad: As ambassador to the world, the industry is building everything from radio towers to new towns — including good will.”
-Eight years after designing this cover, Ray would leave Architectural Forum to work for the United States Information Service, which helped spread American ideas and values around the world.
+This cover uses a mercator projection map to illustrate the article “US building abroad: As ambassador to the world, the industry is building everything from radio towers to new towns — including good will.”
+Eight years after designing this cover, Komai would leave Architectural Forum to work for the United States Information Service, which helped spread American ideas and values around the world.

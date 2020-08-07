@@ -1,5 +1,5 @@
 ---
-label: 1
+label: 
 title: October 1953
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 9
 ---
 
-A cover for a special issue on education. Since Architectural Forum often featured articles about education, Ray designed many covers about schools and in 1958 designed a book about school architecture for the Joint School Research Project (see pages 56–57).
+A cover for a special issue on education. Architectural Forum often featured articles about education, and Komai designed many covers about schools.
+[Full issue](https://usmodernist.org/AF/AF-1953-10.pdf)
+
+{{< q-figure id= "1953oct" >}}

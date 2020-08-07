@@ -1,5 +1,5 @@
 ---
-label: 22
+label: 
 title: November 1958
 short_title:
 type: entry
@@ -9,4 +9,8 @@ object:
   - id: 24
 ---
 
-A cover illustration by Ray for several articles about school design.
+Komai’s pared-down brush illustration for several articles about school design.
+[Full issue](https://usmodernist.org/AF/AF-1958-11.pdf)
+
+
+{{< q-figure id="1958nov" >}}

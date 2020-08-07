@@ -1,5 +1,5 @@
 ---
-label: 23
+label: 
 title: January 1959
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 23
 ---
 
-An engraving from Nicholson’s Architectural Dictionary, adapted by Ray.
+A Corinthian column engraving from Nicholson’s Architectural Dictionary, adapted by Komai for the story “Building for the Community.”
+[Full issue](https://usmodernist.org/AF/AF-1959-01.pdf)
+
+{{< q-figure id="1959jan" >}}

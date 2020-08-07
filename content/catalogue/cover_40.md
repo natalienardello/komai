@@ -1,5 +1,5 @@
 ---
-label: 40
+label: 
 title: June 1961
 short_title:
 type: entry
@@ -9,4 +9,7 @@ object:
   - id: 43
 ---
 
-Illustration by Ray Komai based on Eero Saarinen’s IBM research center in suburban New York.
+Komai’s somewhat more realistic drawing of Eero Saarinen’s IBM research center in suburban New York.
+[Full issue](https://usmodernist.org/AF/AF-1961-06.pdf)
+
+{{< q-figure id="1961june" >}}
