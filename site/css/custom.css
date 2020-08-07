@@ -103,4 +103,18 @@ h1, h4, h3{
 .quire-page p{
   text-align:left !important;
 }
-.quire-cover__hero .title
+/*Changes letter-spacing on subtitle*/
+.quire-cover__hero .subtitle{
+  letter-spacing: .06px !important;
+}
+.quire-menu .section-item a, .quire-menu .page-item a{
+  font-size: 12px !important;
+}
+/*removes back & next button from bottom of page*/
+.quire-contents-buttons li.quire-nav-button.next a, .quire-contents-buttons li.quire-nav-button.next, .quire-contents-buttons li.quire-nav-button.prev{
+  display:none !important;
+}
+/*remove background color from caption on individual cover pages*/
+.quire-entry__image .quire-image-control.quire-image-info > span.quire-image-info__wrap{
+  background-color:transparent !important;
+}
