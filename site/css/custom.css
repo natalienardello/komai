@@ -61,7 +61,7 @@ p{
   font-family: "Proxima Nova", helvetica, sans-serif !important;
   font-weight: 400 !important;
   font-style: normal !important;
-  text-align:center !important;
+  text-align:left;
 }
 h1, h4, h3{
   font-family: "Proxima Nova", helvetic, sans-serif !important;
@@ -117,4 +117,30 @@ h1, h4, h3{
 /*remove background color from caption on individual cover pages*/
 .quire-entry__image .quire-image-control.quire-image-info > span.quire-image-info__wrap{
   background-color:transparent !important;
+}
+body{
+  text-align: left !important;
+}
+/*for button at bottom of home page !!!ID WILL HAVE TO CHANGE EVERY TIME LINK IS CHANGED!!!*/
+h2#view-cover-galleryhttpsnatalienardellogithubiokomaicatalogue{
+  text-align: center !important;
+  font-family: "Proxima Nova" !important;
+  color: #658291 !important;
+  text-decoration:underline;
+}
+.quire-page__content .content a{
+  text-align: center !important;
+  font-family: "Proxima Nova" !important;
+  color: #658291 !important;
+  text-decoration:underline;
+  border:none !important;
+}
+/*for button individual cover pages !!!ID WILL HAVE TO CHANGE EVERY TIME LINK IS CHANGED!!!*/
+h1#back-to-all-covershttpsnatalienardellogithubiokomaicatalogue{
+  text-align: center !important;
+  font-family: "Proxima Nova" !important;
+  font-weight: 700;
+  color: #658291 !important;
+  text-decoration:underline;
+  font-size: 15pt !important;
 }
