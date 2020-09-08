@@ -144,3 +144,22 @@ h1#back-to-all-covershttpsnatalienardellogithubiokomaicatalogue{
   text-decoration:underline;
   font-size: 15pt !important;
 }
+/*text "Catalog Covers" on catalog pages*/
+p1.head{
+  text-align: center !important;
+  font-family: "Proxima Nova" !important;
+  font-weight: 700 !important;
+  font-size: 36pt !important;
+}
+div.head{
+  text-align: center !important;
+  font-family: "Proxima Nova" !important;
+  font-weight: 700 !important;
+  font-size: 30pt !important;
+  padding-bottom: none !important;
+}
+@media only screen and (max-width: 600px) {
+  img {
+    padding: 10px !important;
+  }
+}
