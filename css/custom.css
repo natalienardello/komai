@@ -163,3 +163,6 @@ div.head{
     padding: 10px !important;
   }
 }
+h1.title{
+  letter-spacing: 1pt !important;
+}
