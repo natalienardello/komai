@@ -166,3 +166,6 @@ div.head{
 h1.title{
   letter-spacing: 1pt !important;
 }
+div.leaflet-container{
+  background-color: #5b5b5b !important;
+}
