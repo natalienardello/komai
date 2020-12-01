@@ -169,3 +169,6 @@ h1.title{
 div.leaflet-container{
   background-color: #5b5b5b !important;
 }
+div.contributor{
+  display: none !important;
+}
